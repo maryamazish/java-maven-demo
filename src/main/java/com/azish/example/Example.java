@@ -12,5 +12,6 @@ public class Example {
     public static void main(String[] args) throws FileNotFoundException {
         System.out.println("Hello ...");
         System.out.println("Salam ...");
+        System.out.println("Maryam ...");
     }
 }
